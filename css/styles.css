@@ -40,7 +40,7 @@ main {
 }
 
 body::after {
-  content: "Please make your screen small!!";
+  content: "Please make your screen small!!😘";
   position: fixed;
   width: 100%;
   height: 100%;
